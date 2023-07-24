@@ -6,7 +6,16 @@
     <description>Recent content on CSU BizApps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2023 14:57:42 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 11:49:29 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SecondPost</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/secondpost/</link>
+      <pubDate>Mon, 24 Jul 2023 11:49:29 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/secondpost/</guid>
+      <description>More blog content! </description>
+    </item>
+    
     <item>
       <title>FirstPost</title>
       <link>https://raa-msft.github.io/ba.github.io/posts/firstpost/</link>
