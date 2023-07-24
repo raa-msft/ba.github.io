@@ -6,7 +6,16 @@
     <description>Recent content in Posts on CSU BizApps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 13:24:00 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 16:37:11 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PinkConcert</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</link>
+      <pubDate>Mon, 24 Jul 2023 16:37:11 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</guid>
+      <description>How to go to a P!nk concert what to wear what to bring how to get there Image</description>
+    </item>
+    
     <item>
       <title>ThirdPost</title>
       <link>https://raa-msft.github.io/ba.github.io/posts/thirdpost/</link>
@@ -14,7 +23,9 @@
       
       <guid>https://raa-msft.github.io/ba.github.io/posts/thirdpost/</guid>
       <description>this is some content
-WorkshopPLUS - Power Platform: Model-Driven Apps and Dataverse Administration with Labs</description>
+WorkshopPLUS - Power Platform: Model-Driven Apps and Dataverse Administration with Labs
+WorkshopPLUS - Power Platform: Model-Driven Apps and Dataverse Administration with Labs
+Image</description>
     </item>
     
     <item>
