@@ -6,7 +6,16 @@
     <description>Recent content in Posts on CSU BizApps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 16:37:11 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 17:09:54 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AnotherPost</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</link>
+      <pubDate>Thu, 27 Jul 2023 17:09:54 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</guid>
+      <description>another post with awesome content!</description>
+    </item>
+    
     <item>
       <title>PinkConcert</title>
       <link>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</link>
@@ -25,6 +34,7 @@
       <description>this is some content
 WorkshopPLUS - Power Platform: Model-Driven Apps and Dataverse Administration with Labs
 WorkshopPLUS - Power Platform: Model-Driven Apps and Dataverse Administration with Labs
+Activate - Dynamics 365 Field Service
 Image</description>
     </item>
     
