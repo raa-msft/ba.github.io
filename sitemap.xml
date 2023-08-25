@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://raa-msft.github.io/ba.github.io/tags/another-test/</loc>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
+  </url><url>
     <loc>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</loc>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
+  </url><url>
+    <loc>https://raa-msft.github.io/ba.github.io/categories/</loc>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
+  </url><url>
+    <loc>https://raa-msft.github.io/ba.github.io/categories/category-1/</loc>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
+  </url><url>
+    <loc>https://raa-msft.github.io/ba.github.io/categories/category-2/</loc>
     <lastmod>2023-07-27T17:09:54-06:00</lastmod>
   </url><url>
     <loc>https://raa-msft.github.io/ba.github.io/</loc>
@@ -11,25 +23,13 @@
     <loc>https://raa-msft.github.io/ba.github.io/posts/</loc>
     <lastmod>2023-07-27T17:09:54-06:00</lastmod>
   </url><url>
-    <loc>https://raa-msft.github.io/ba.github.io/tags/another-test/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
-  </url><url>
-    <loc>https://raa-msft.github.io/ba.github.io/categories/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
-  </url><url>
-    <loc>https://raa-msft.github.io/ba.github.io/categories/category-1/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
-  </url><url>
-    <loc>https://raa-msft.github.io/ba.github.io/categories/category-2/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
-  </url><url>
-    <loc>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
-  </url><url>
     <loc>https://raa-msft.github.io/ba.github.io/tags/</loc>
-    <lastmod>2023-07-24T16:37:11-06:00</lastmod>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
   </url><url>
     <loc>https://raa-msft.github.io/ba.github.io/tags/test/</loc>
+    <lastmod>2023-07-27T17:09:54-06:00</lastmod>
+  </url><url>
+    <loc>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</loc>
     <lastmod>2023-07-24T16:37:11-06:00</lastmod>
   </url><url>
     <loc>https://raa-msft.github.io/ba.github.io/posts/thirdpost/</loc>

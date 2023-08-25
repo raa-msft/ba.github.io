@@ -6,7 +6,16 @@
     <description>Recent content in Another test on CSU BizApps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 16:37:11 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/tags/another-test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 17:09:54 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/tags/another-test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AnotherPost</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</link>
+      <pubDate>Thu, 27 Jul 2023 17:09:54 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</guid>
+      <description>another post with awesome content!</description>
+    </item>
+    
     <item>
       <title>PinkConcert</title>
       <link>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</link>
@@ -14,6 +23,25 @@
       
       <guid>https://raa-msft.github.io/ba.github.io/posts/pinkconcert/</guid>
       <description>How to go to a P!nk concert what to wear what to bring how to get there Image</description>
+    </item>
+    
+    <item>
+      <title>SecondPost</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/secondpost/</link>
+      <pubDate>Mon, 24 Jul 2023 11:49:29 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/secondpost/</guid>
+      <description>More blog content! </description>
+    </item>
+    
+    <item>
+      <title>FirstPost</title>
+      <link>https://raa-msft.github.io/ba.github.io/posts/firstpost/</link>
+      <pubDate>Fri, 21 Jul 2023 14:57:42 -0600</pubDate>
+      
+      <guid>https://raa-msft.github.io/ba.github.io/posts/firstpost/</guid>
+      <description>This is some content for my first post
+First post baby! </description>
     </item>
     
   </channel>
