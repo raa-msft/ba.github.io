@@ -6,24 +6,16 @@
     <description>Recent content in Posts on CSU BizApps Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2023 17:09:54 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 14:57:42 -0600</lastBuildDate><atom:link href="https://raa-msft.github.io/ba.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AnotherPost</title>
-      <link>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</link>
-      <pubDate>Thu, 27 Jul 2023 17:09:54 -0600</pubDate>
-      
-      <guid>https://raa-msft.github.io/ba.github.io/posts/anotherpost/</guid>
-      <description>another post with awesome content!</description>
-    </item>
-    
-    <item>
-      <title>FirstPost</title>
+      <title>Microsoft Customer Success - Business Applications</title>
       <link>https://raa-msft.github.io/ba.github.io/posts/firstpost/</link>
       <pubDate>Fri, 21 Jul 2023 14:57:42 -0600</pubDate>
       
       <guid>https://raa-msft.github.io/ba.github.io/posts/firstpost/</guid>
-      <description>This is some content for my first post
-First post baby! </description>
+      <description>Microsoft Customer Success - Business Applications
+Service Offerings
+Power Platform and Dynamics 365 </description>
     </item>
     
   </channel>
